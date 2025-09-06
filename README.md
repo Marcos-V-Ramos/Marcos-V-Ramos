@@ -7,8 +7,7 @@ Me chamo Marcos Caldas, atualmente tenho 23 anos de idade e estou em busca da mi
 ## Tecnologias
 Algumas das tecnologias em que eu utilizei ao longo do meu trajeto:
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" style="height: 80px; display: inline">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" style="height: 80px; display: inline">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" style="height: 80px; display: inline"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" style="height: 80px; display: inline">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" style="height: 80px; display: inline">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" style="height: 80px; display: inline">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" style="height: 80px; display: inline">
